@@ -1,14 +1,21 @@
-# MAD_FALL25 - All 5 Projects Merged 
+# MAD_FALL25 - Projects Portfolio 
  
-## ?? Projects Included: 
+## ?? Projects Directory 
  
-1. **[MAD](./MAD)** - Mobile Application Development projects 
-2. **[Quiz01](./Quiz01)** - Quiz Application 
-3. **[Midterm-Coffee-Shop](./Midterm-Coffee-Shop)** - Full-stack Coffee Shop App (JavaScript) 
-4. **[Assignment_1](./Assignment_1)** - First Assignment 
-5. **[A2_Ecommerce-App](./A2_Ecommerce-App)** - Full-stack E-commerce App (JavaScript) 
+### 1. **MAD** 
+Mobile Application Development course projects and exercises. 
  
-## ?? Repository Structure 
-- Each project is in its own folder 
-- All source code preserved 
-- Ready to use 
+### 2. **Quiz01** 
+Quiz application project with interactive functionality. 
+ 
+### 3. **Midterm-Coffee-Shop** 
+Full-stack coffee shop application with JavaScript backend and frontend. 
+ 
+### 4. **Assignment_1** 
+First assignment submissions for MAD course. 
+ 
+### 5. **A2_Ecommerce-App** 
+Complete e-commerce application with React Native frontend and Express.js backend. 
+ 
+--- 
+*Last Updated: December 2024* 
